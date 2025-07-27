@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-[![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/auto-organizer?color=orange)](https://github.com/YOUR_GITHUB_USERNAME/auto-organizer/commits/main)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Mayank230604/auto-organizer?color=orange)](https://github.com/Mayank230604/auto-organizer/commits/main)
 
 ## 🌟 Project Overview
 
@@ -31,10 +31,9 @@ Follow these steps to get Auto-Organizer up and running on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/auto-organizer.git](https://github.com/YOUR_GITHUB_USERNAME/auto-organizer.git)
+    git clone [https://github.com/Mayank230604/auto-organizer.git](https://github.com/Mayank230604/auto-organizer.git)
     cd auto-organizer
     ```
-    *(Remember to replace `YOUR_GITHUB_USERNAME` with your actual GitHub username!)*
 
 2.  **No extra dependencies are required!** This project uses only Python's built-in `os`, `shutil`, and `argparse` libraries.
 
