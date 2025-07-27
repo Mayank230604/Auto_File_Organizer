@@ -13,12 +13,12 @@ import argparse
 # Define file categories. Add or remove categories/extensions as needed.
 CATEGORIES = {
     "Images": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tiff", ".webp"],
-    "Documents": [".pdf", ".docx", ".doc", ".txt", ".xlsx", ".xls", ".pptx", ".ppt", ".odt", ".rtf", ".md"], # Added .md
-    "Audio": [".mp3", ".wav", ".aac", ".flac", ".ogg", ".m4a"], # Added .m4a
-    "Video": [".mp4", ".mov", ".avi", ".mkv", ".flv", ".wmv", ".webm"], # Added .webm
-    "Archives": [".zip", ".rar", ".7z", ".tar", ".gz", ".bz2", ".iso"], # Added .iso
-    "Executables": [".exe", ".msi", ".dmg", ".app", ".bat", ".sh"], # Added .bat, .sh (for scripts)
-    "Code": [".py", ".js", ".html", ".css", ".java", ".c", ".cpp", ".h", ".cs", ".go", ".rb", ".php", ".json", ".xml", ".yml", ".yaml"] # Expanded code types
+    "Documents": [".pdf", ".docx", ".doc", ".txt", ".xlsx", ".xls", ".pptx", ".ppt", ".odt", ".rtf", ".md"], 
+    "Audio": [".mp3", ".wav", ".aac", ".flac", ".ogg", ".m4a"],
+    "Video": [".mp4", ".mov", ".avi", ".mkv", ".flv", ".wmv", ".webm"], 
+    "Archives": [".zip", ".rar", ".7z", ".tar", ".gz", ".bz2", ".iso"], 
+    "Executables": [".exe", ".msi", ".dmg", ".app", ".bat", ".sh"],
+    "Code": [".py", ".js", ".html", ".css", ".java", ".c", ".cpp", ".h", ".cs", ".go", ".rb", ".php", ".json", ".xml", ".yml", ".yaml"] 
 }
 
 def get_category(file_extension):
