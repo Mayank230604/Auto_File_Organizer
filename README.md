@@ -1,12 +1,12 @@
-# Auto-Organizer: A Python CLI for Decluttering Directories
+# Auto_File_Organizer: A Python CLI for Decluttering Directories
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Mayank230604/auto-organizer?color=orange)](https://github.com/Mayank230604/auto-organizer/commits/main)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Mayank230604/Auto_File_Organizer?color=orange)](https://github.com/Mayank230604/Auto_File_Organizer/commits/main)
 
 ## 🌟 Project Overview
 
-**Auto-Organizer** is a powerful and easy-to-use command-line interface (CLI) tool written in Python. It's designed to help you quickly clean up messy directories (like your `Downloads` folder) by automatically sorting files into organized subdirectories based on their file type. No more hunting for that one PDF amidst hundreds of images and videos!
+**Auto_File_Organizer** is a powerful and easy-to-use command-line interface (CLI) tool written in Python. It's designed to help you quickly clean up messy directories (like your `Downloads` folder) by automatically sorting files into organized subdirectories based on their file type. No more hunting for that one PDF amidst hundreds of images and videos!
 
 This project was built to demonstrate fundamental Python programming skills, file system interaction, and command-line argument parsing.
 
@@ -21,7 +21,7 @@ This project was built to demonstrate fundamental Python programming skills, fil
 
 ## 🚀 Getting Started
 
-Follow these steps to get Auto-Organizer up and running on your local machine.
+Follow these steps to get Auto_File_Organizer up and running on your local machine.
 
 ### Prerequisites
 
@@ -31,15 +31,15 @@ Follow these steps to get Auto-Organizer up and running on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Mayank230604/auto-organizer.git](https://github.com/Mayank230604/auto-organizer.git)
-    cd auto-organizer
+    git clone [https://github.com/Mayank230604/Auto_File_Organizer.git](https://github.com/Mayank230604/Auto_File_Organizer.git)
+    cd Auto_File_Organizer
     ```
 
 2.  **No extra dependencies are required!** This project uses only Python's built-in `os`, `shutil`, and `argparse` libraries.
 
 ## 💡 Usage
 
-To run the Auto-Organizer, simply execute the `organizer.py` script and provide the path to the directory you wish to clean as an argument.
+To run the Auto_File_Organizer, simply execute the `organizer.py` script and provide the path to the directory you wish to clean as an argument.
 
 **Basic Usage:**
 
